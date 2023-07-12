@@ -1,0 +1,1 @@
+man ls | grep -A 1 '^[[space:]]*-s' > output.txt

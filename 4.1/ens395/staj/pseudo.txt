@@ -1,0 +1,44 @@
+map = userId's and dealer identities
+while(NrOfConnectedClients != 610):  #just 3 for the beginning
+	recv
+	save client to map
+
+
+lst = movies that similar users watched
+while(true):
+	recv msg
+	if msg == recommend:
+		check neighbours from knn_graph
+		send requests to corresponding users (using map)
+		recv user profiles
+		recommend movie--> send to the user
+
+	if msg.startsWith(myMovies):
+		add them to lst
+		
+
+
+can I assume that other clients will wait to request movie recommendations until all clients connect?
+OR: the below way
+OR: signaling between threads
+
+do I need new thread/socket for each new connected client? (poller?)
+(zmq contexts are thread safe but not sockets)
+
+OR:
+while(True):
+	recv
+	if new user:
+		save user to the UserId-SocketId_Map
+
+	else if recommendation request:
+		check neighbours from knn_graph
+		send requests to similar users
+		wait until all similar users are connected
+		after receiving all needed user profiles:
+			process & send the movies to the user
+
+	else if user profile reply:
+		add them to user-movie_Map
+
+s_sendmore(socket, string) is string data or the id of the dealer?

@@ -1,0 +1,17 @@
+c:\users\cs408-lab\documents\visual studio 2015\Projects\GUIExampleLab-3\GUIExampleLab-3\bin\Debug\GUIExampleLab-3.exe.config
+c:\users\cs408-lab\documents\visual studio 2015\Projects\GUIExampleLab-3\GUIExampleLab-3\bin\Debug\GUIExampleLab-3.exe
+c:\users\cs408-lab\documents\visual studio 2015\Projects\GUIExampleLab-3\GUIExampleLab-3\bin\Debug\GUIExampleLab-3.pdb
+c:\users\cs408-lab\documents\visual studio 2015\Projects\GUIExampleLab-3\GUIExampleLab-3\obj\Debug\GUIExampleLab_3.Form1.resources
+c:\users\cs408-lab\documents\visual studio 2015\Projects\GUIExampleLab-3\GUIExampleLab-3\obj\Debug\GUIExampleLab_3.Properties.Resources.resources
+c:\users\cs408-lab\documents\visual studio 2015\Projects\GUIExampleLab-3\GUIExampleLab-3\obj\Debug\GUIExampleLab-3.csproj.GenerateResource.Cache
+c:\users\cs408-lab\documents\visual studio 2015\Projects\GUIExampleLab-3\GUIExampleLab-3\obj\Debug\GUIExampleLab-3.exe
+c:\users\cs408-lab\documents\visual studio 2015\Projects\GUIExampleLab-3\GUIExampleLab-3\obj\Debug\GUIExampleLab-3.pdb
+C:\Users\cs408-lab\Desktop\Lab 0-20201020T222921Z-001\Lab 0\gui-examples\gui-examples\GUIExampleLab-3\GUIExampleLab-3\bin\Debug\GUIExampleLab-3.exe.config
+C:\Users\cs408-lab\Desktop\Lab 0-20201020T222921Z-001\Lab 0\gui-examples\gui-examples\GUIExampleLab-3\GUIExampleLab-3\obj\Debug\GUIExampleLab-3.exe
+C:\Users\cs408-lab\Desktop\Lab 0-20201020T222921Z-001\Lab 0\gui-examples\gui-examples\GUIExampleLab-3\GUIExampleLab-3\obj\Debug\GUIExampleLab-3.pdb
+C:\Users\cs408-lab\Desktop\Lab 0-20201020T222921Z-001\Lab 0\gui-examples\gui-examples\GUIExampleLab-3\GUIExampleLab-3\bin\Debug\GUIExampleLab-3.exe
+C:\Users\cs408-lab\Desktop\Lab 0-20201020T222921Z-001\Lab 0\gui-examples\gui-examples\GUIExampleLab-3\GUIExampleLab-3\bin\Debug\GUIExampleLab-3.pdb
+C:\Users\cs408-lab\Desktop\Lab 0-20201020T222921Z-001\Lab 0\gui-examples\gui-examples\GUIExampleLab-3\GUIExampleLab-3\obj\Debug\GUIExampleLab-3.csprojResolveAssemblyReference.cache
+C:\Users\cs408-lab\Desktop\Lab 0-20201020T222921Z-001\Lab 0\gui-examples\gui-examples\GUIExampleLab-3\GUIExampleLab-3\obj\Debug\GUIExampleLab_3.Form1.resources
+C:\Users\cs408-lab\Desktop\Lab 0-20201020T222921Z-001\Lab 0\gui-examples\gui-examples\GUIExampleLab-3\GUIExampleLab-3\obj\Debug\GUIExampleLab_3.Properties.Resources.resources
+C:\Users\cs408-lab\Desktop\Lab 0-20201020T222921Z-001\Lab 0\gui-examples\gui-examples\GUIExampleLab-3\GUIExampleLab-3\obj\Debug\GUIExampleLab-3.csproj.GenerateResource.Cache

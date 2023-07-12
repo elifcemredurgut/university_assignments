@@ -1,0 +1,7 @@
+OTKBx = 0x95dfe09b86b9c127ff3ec39c97ec41f260a37b8f6807d562a93d15a5b9011324 
+OTKBy = 0x86f8cb02fe84ad930f50aefa12849d34750ac0cd0ebd9c928e837943995025df
+
+a = int(OTKBx)
+b = int(OTKBy)
+
+print(a,"\n", b)

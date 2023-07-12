@@ -1,0 +1,11 @@
+﻿  camera.cpp
+camera.cpp(34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+camera.cpp(35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+camera.cpp(36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+camera.cpp(37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  3 of 42 functions ( 7.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  DVA338_Lab1.vcxproj -> D:\Users\elifc\DevOgl\DVA338_Lab1\Release\DVA338_Lab1.exe
